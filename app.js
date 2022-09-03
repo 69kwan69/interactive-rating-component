@@ -1,4 +1,4 @@
-const ratingBtns = document.querySelectorAll('.rating-btn');
+const ratingBtns = document.querySelectorAll('.rating-btn input');
 const submitBtn = document.querySelector('#submit');
 const thankCard = document.querySelector('#thank-you-card');
 const ratingCard = document.querySelector('#rating-card');
